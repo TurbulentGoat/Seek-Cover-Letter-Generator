@@ -2,10 +2,14 @@
 A Tampermonkey userscript that generates concise, personalized cover letters for job applications on seek.com.au. It extracts job details, allows customization of skills and saves frequently used details for efficiency.
 Features
 
+<img width="707" height="540" alt="image" src="https://github.com/user-attachments/assets/6a2153e6-1b5e-42a0-9475-7f2577b4b749" />
+
 Generates tailored cover letters with job title and company name pulled from Seek job listings.
 Customizable fields for top skills and company-specific interest.
 Saves skills and achievements locally to streamline multiple applications.
 Copies the generated letter to your clipboard with one click.
+
+<img width="374" height="861" alt="image" src="https://github.com/user-attachments/assets/721911e6-2b9e-46cc-8e8c-0c331aca974b" />
 
 ## Prerequisites  
 
@@ -47,7 +51,7 @@ Click the pink "Generate Cover Letter" button (top-right corner).
 A new window opens with a form to customize your cover letter.
 
 
-### Customize the Letter:  
+### Customise the Letter:  
 
 Top Skills: Enter 2-3 relevant skills (e.g., "problem-solving, teamwork").
 Why This Company?: Add a reason you’re interested in the company (e.g., "I admire your innovation").
